@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is ECFF-A05F
+
+ Directory of C:\Users\Celebal\Desktop\HelloWorld
+
+24-11-2022  10:06    <DIR>          .
+24-11-2022  08:55    <DIR>          ..
+24-11-2022  09:59               921 hello.class
+24-11-2022  09:52               226 hello.java
+24-11-2022  10:06                 0 jen.txt
+24-11-2022  09:32               449 readme.txt
+24-11-2022  09:48               498 readme2.txt
+24-11-2022  09:56               547 readme2.war
+               6 File(s)          2,641 bytes
+               2 Dir(s)  148,698,693,632 bytes free
